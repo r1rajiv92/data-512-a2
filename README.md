@@ -15,10 +15,10 @@ For this project, we used the APIs provided by wikipedia.
 ORES API for each articles scores - https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model
 
 # Final Data 
-For each articles, the dataset provides the following
+For each articles, the dataset provides the following  
 
-country - country 
-article_name - name of the article
-revision_id - last revision id corresponding to wikipedia
-article_quality - quality of the aricles from the ORES service
-population - population in that country
+country - country  
+article_name - name of the article  
+revision_id - last revision id corresponding to wikipedia  
+article_quality - quality of the aricles from the ORES service  
+population - population in that country  
