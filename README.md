@@ -15,7 +15,7 @@ For this project, we used the APIs provided by wikipedia.
 ORES API for each articles scores - https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model
 
 # Final Data 
-For each articles, the dataset provides the following  
+For each article, the dataset provides the following  
 
 country - country  
 article_name - name of the article  
